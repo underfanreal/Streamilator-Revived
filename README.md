@@ -1,5 +1,5 @@
-# Streamilator
-Streamilator is a streaming service coded in Scratch 3.0!
+# Streamilator Revived
+Streamilator Revived is a project that aims to bring back Streamilator Classic.
 
 MMC disowned us
 ## Credits
